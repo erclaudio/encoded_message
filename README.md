@@ -1,4 +1,4 @@
-Algorith designed to decode a secret message from a text file input in the following format:
+Algoritm designed to decode a secret message from a text file input in the following format:
 1 word1
 2 word2
 ...  ...
